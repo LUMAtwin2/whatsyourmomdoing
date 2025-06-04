@@ -1,0 +1,22 @@
+{
+  "name": "whats-your-mom-doing",
+  "version": "1.0.0",
+  "description": "A fun website to check in on what your mom is doing.",
+  "main": "src/scripts/main.js",
+  "scripts": {
+    "start": "live-server public",
+    "build": "echo 'Build step goes here'",
+    "test": "echo 'No tests specified'"
+  },
+  "keywords": [
+    "mom",
+    "fun",
+    "website"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "live-server": "^1.2.1"
+  }
+}
