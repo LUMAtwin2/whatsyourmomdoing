@@ -18,8 +18,8 @@ The project is organized as follows:
 
 
 
-
-
+BTW I LUCAS SATINK MADE THIS WEBSITE-CL6B
+YALL DUMB
 
 
 
