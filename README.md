@@ -13,4 +13,37 @@ The project is organized as follows:
 * relaxing
 * working out at the gym
 * calling or texting somebody
-* 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
