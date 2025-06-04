@@ -1,0 +1,24 @@
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>What's Your Mom Doing</title>
+    <link rel="stylesheet" href="styles/main.css">
+</head>
+<body>
+    <header id="header"></header>
+    <main>
+        <h1>Welcome to What's Your Mom Doing</h1>
+        <p>Stay tuned for updates!</p>
+        <!-- Added list of things moms could be doing -->
+        <section>
+            <h2>Things Moms Could Be Doing</h2>
+            <ul>
+                <li>Cooking a family meal</li>
+                <li>Reading a book</li>
+                <li>Gardening in the backyard</li>
+                <li>Going for a walk</li>
+                <li>Working on a craft project</li>
+                <li>Watching a favorite show</li>
+                <li>Calling a friend</li>
